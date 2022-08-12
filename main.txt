@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this text is from manish branch
+=======
+this is some text
+>>>>>>> refs/remotes/origin/main
