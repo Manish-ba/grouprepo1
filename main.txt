@@ -1,5 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this text is from manish branch
 =======
 this is some text
 >>>>>>> refs/remotes/origin/main
+=======
+text from raksh branch
+=======
+<<<<<<< HEAD
+this text has been added by vinod
+=======
+this is some text
+>>>>>>> 35df2924f929f6a1740f8bc80d20798a9cbbae6a
+>>>>>>> 8f2268294d7f30e051614981aaebd54c06c75077
+>>>>>>> 10e84768808dc0f53bcda7e3a4bf415a6643c327
