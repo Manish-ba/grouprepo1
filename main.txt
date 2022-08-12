@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this text has been added by vinod
+=======
+this is some text
+>>>>>>> 35df2924f929f6a1740f8bc80d20798a9cbbae6a
